@@ -13,7 +13,7 @@ Example:
 - ✅ Network topology simulation
 
 ## 📷 Network Diagram
-![Network Topology](Project1.png) 
+![Network Topology](Project.1.png) 
 
 ## 🔧 How to Use
 1. Clone the repository or download the `.pkt` file.
