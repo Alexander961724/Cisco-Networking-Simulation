@@ -1,9 +1,7 @@
 # 🚀 Cisco Packet Tracer Network Simulation
 
 ## 📌 Project Overview
-Provide a brief description of your project.
-Example: 
-"This project simulates an enterprise network with VLANs, OSPF routing, ACLs for security, and SSH for remote management. Configured in Cisco Packet Tracer."
+This project simulates an enterprise network with VLANs, OSPF routing, ACLs for security, and SSH for remote management. Configured in Cisco Packet Tracer.
 
 ## 🛠 Features
 - ✅ VLANs for network segmentation
